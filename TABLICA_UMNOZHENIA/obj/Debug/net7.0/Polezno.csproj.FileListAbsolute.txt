@@ -1,0 +1,15 @@
+D:\Digital-master\Lections_C-Sharp\C_Sharp_examples\TABLICA_UMNOZHENIA\bin\Debug\net7.0\Polezno.exe
+D:\Digital-master\Lections_C-Sharp\C_Sharp_examples\TABLICA_UMNOZHENIA\bin\Debug\net7.0\Polezno.deps.json
+D:\Digital-master\Lections_C-Sharp\C_Sharp_examples\TABLICA_UMNOZHENIA\bin\Debug\net7.0\Polezno.runtimeconfig.json
+D:\Digital-master\Lections_C-Sharp\C_Sharp_examples\TABLICA_UMNOZHENIA\bin\Debug\net7.0\Polezno.dll
+D:\Digital-master\Lections_C-Sharp\C_Sharp_examples\TABLICA_UMNOZHENIA\bin\Debug\net7.0\Polezno.pdb
+D:\Digital-master\Lections_C-Sharp\C_Sharp_examples\TABLICA_UMNOZHENIA\obj\Debug\net7.0\Polezno.csproj.AssemblyReference.cache
+D:\Digital-master\Lections_C-Sharp\C_Sharp_examples\TABLICA_UMNOZHENIA\obj\Debug\net7.0\Polezno.GeneratedMSBuildEditorConfig.editorconfig
+D:\Digital-master\Lections_C-Sharp\C_Sharp_examples\TABLICA_UMNOZHENIA\obj\Debug\net7.0\Polezno.AssemblyInfoInputs.cache
+D:\Digital-master\Lections_C-Sharp\C_Sharp_examples\TABLICA_UMNOZHENIA\obj\Debug\net7.0\Polezno.AssemblyInfo.cs
+D:\Digital-master\Lections_C-Sharp\C_Sharp_examples\TABLICA_UMNOZHENIA\obj\Debug\net7.0\Polezno.csproj.CoreCompileInputs.cache
+D:\Digital-master\Lections_C-Sharp\C_Sharp_examples\TABLICA_UMNOZHENIA\obj\Debug\net7.0\Polezno.dll
+D:\Digital-master\Lections_C-Sharp\C_Sharp_examples\TABLICA_UMNOZHENIA\obj\Debug\net7.0\refint\Polezno.dll
+D:\Digital-master\Lections_C-Sharp\C_Sharp_examples\TABLICA_UMNOZHENIA\obj\Debug\net7.0\Polezno.pdb
+D:\Digital-master\Lections_C-Sharp\C_Sharp_examples\TABLICA_UMNOZHENIA\obj\Debug\net7.0\Polezno.genruntimeconfig.cache
+D:\Digital-master\Lections_C-Sharp\C_Sharp_examples\TABLICA_UMNOZHENIA\obj\Debug\net7.0\ref\Polezno.dll
